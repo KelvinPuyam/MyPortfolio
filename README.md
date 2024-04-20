@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This repository contains the code for my portfolio website showcasing my skills, personal projects, certificates, and more.
 
-You can visit my portfolio live at [https://kelvinpuyam.github.io/Portfolio/](https://kelvinpuyam.github.io/Portfolio/).
+You can visit my portfolio live at [https://kelvinpuyam.github.io/MyPortfolio/](https://kelvinpuyam.github.io/MyPortfolio/).
 
 ## Table of Contents
 
